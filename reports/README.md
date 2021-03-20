@@ -3,7 +3,7 @@
 
 ## План-график работы над проектом
 
-https://github.com/Angelinamat/pd-2020-2/blob/main/reports/Пояснительная%20записка.docx
+https://github.com/Angelinamat/pd-2020-2/blob/main/reports/Проектная%20деятельность.png
 
 ## Индивидуальные планы работы
 
